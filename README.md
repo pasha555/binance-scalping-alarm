@@ -57,3 +57,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 ### 🪪 License
 This project is licensed under the [MIT License](./LICENSE).  
 Author: **Pasha (pasha555)**
+<img width="1654" height="892" alt="image" src="https://github.com/user-attachments/assets/918d9643-4cc9-49a1-9436-d86d8496cdc9" />
+<img width="237" height="322" alt="image" src="https://github.com/user-attachments/assets/a28d8b82-e63f-40c6-accb-bbaa1104c144" />
+<img width="214" height="322" alt="image" src="https://github.com/user-attachments/assets/6d6bb194-ec2e-4177-b698-e1c8f0649651" />
+<img width="212" height="82" alt="image" src="https://github.com/user-attachments/assets/7172a7d4-1db2-4057-b35f-d26655bbb6e2" />
+
